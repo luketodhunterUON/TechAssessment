@@ -135,7 +135,14 @@ Rules:
 
 \- If a source is weak or secondary, mark it as such.
 
-# Prompt 3 – Build the company, contact and route strategy
+
+# Prompt 5 - Tech Assessments (repeat as necessary for each Evaluator)
+
+(For this prompt, users should  use the '+' icon to add content to their prompt, searching 'Evaluator' and selecting one of the categories.)
+
+Perform an assessment based on the attached requirements.
+
+# Prompt 4 – Build the company, contact and route strategy
 
 Using the extracted disclosure information and the external research findings, create the company matching, contact strategy and commercialisation route assessment.
 
@@ -207,7 +214,7 @@ Produce:
 
 5\. Recommended primary route, secondary routes and rationale.
 
-# Prompt 4 – Generate figures and report-ready tables
+# Prompt 5 – Generate figures and report-ready tables
 
 Now create the report-ready figures and tables using the Figure and Table Standards in your knowledge source.
 
@@ -273,7 +280,7 @@ For each figure provide:
 
 Do not create decorative figures. Only include figures that help the commercialisation decision.
 
-# Prompt 5 – Final Report
+# Prompt 6 – Final Report
 
 Draft the final Innovation Commercialisation Exploration Report into a word document.
 
@@ -335,7 +342,7 @@ Before the final report, include a short quality-control checklist showing:
 
 6\. Whether next actions are clear.
 
-# Promt 6 (optional) - Refresh
+# Promt 7 (optional) - Refresh
 
 Review the report and identify the weakest sections based on evidence quality, missing sources or low-confidence assumptions.
 
