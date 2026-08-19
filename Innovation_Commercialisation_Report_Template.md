@@ -49,7 +49,13 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 5\. Market Applications
+# 5\. Technology Assessments
+
+- \[Evaluator assessment results\]
+
+\[Agent-generated content to be inserted here.\]
+
+# 6\. Market Applications
 
 - \[Ranked applications\]
 - \[Use cases\]
@@ -60,7 +66,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 6\. Market Intelligence
+# 7\. Market Intelligence
 
 - \[Indicative market size/growth where reliable\]
 - \[Recent trends\]
@@ -69,7 +75,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 7\. Prior Art and Competitive Landscape
+# 8\. Prior Art and Competitive Landscape
 
 - \[Patent references\]
 - \[Publication references\]
@@ -80,7 +86,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 8\. Company Matching
+# 9\. Company Matching
 
 - \[Ranked company list\]
 - \[Rationale and evidence\]
@@ -90,7 +96,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 9\. Contact Recommendations
+# 10\. Contact Recommendations
 
 - \[Named public contacts where permitted\]
 - \[Role-based targets\]
@@ -100,7 +106,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 10\. Outreach Pack
+# 11\. Outreach Pack
 
 - \[Licensing email draft\]
 - \[Sponsored research email draft\]
@@ -110,7 +116,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 11\. Development Roadmap
+# 12\. Development Roadmap
 
 - \[Current maturity estimate\]
 - \[Technical gaps\]
@@ -121,7 +127,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 12\. Commercialisation Route Recommendation
+# 13\. Commercialisation Route Recommendation
 
 - \[Primary route\]
 - \[Secondary routes\]
@@ -131,7 +137,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 13\. IP and Legal Considerations
+# 14\. IP and Legal Considerations
 
 - \[Likely IPR categories\]
 - \[Patentability/prior-art flags\]
@@ -141,7 +147,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 14\. Risk Register
+# 15\. Risk Register
 
 - \[IP risk\]
 - \[Market risk\]
@@ -153,7 +159,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 15\. Recommended Next Actions
+# 16\. Recommended Next Actions
 
 - \[0–2 weeks\]
 - \[1–3 months\]
@@ -162,7 +168,7 @@ CONFIDENTIAL | Prepared by Innovation Partner Discovery Agent | \[Date\]
 
 \[Agent-generated content to be inserted here.\]
 
-# 16\. References
+# 17\. References
 
 - \[Patents\]
 - \[Publications\]
