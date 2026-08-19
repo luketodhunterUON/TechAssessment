@@ -136,7 +136,7 @@ Rules:
 \- If a source is weak or secondary, mark it as such.
 
 
-# Prompt 5 - Tech Assessments (repeat as necessary for each Evaluator)
+# Prompt 3 - Tech Assessments (repeat as necessary for each Evaluator)
 
 (For this prompt, users should  use the '+' icon to add content to their prompt, searching 'Evaluator' and selecting one of the categories.)
 
