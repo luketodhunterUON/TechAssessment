@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "report_title": "",
+    "date": "",
+    "input_type": "physical_product | software_data_hardware | patent | publication | free_text | mixed",
+    "confidentiality": "confidential",
+    "prepared_for": "",
+    "prepared_by": "Innovation Partner Discovery Agent"
+  },
+  "disclosure_extraction": {
+    "title": "",
+    "inventors_contributors": [],
+    "school_or_division": "",
+    "funding_sponsors": [],
+    "ownership_flags": [],
+    "agreements": [],
+    "prior_disclosures": [],
+    "publication_deadlines": [],
+    "value_propositions": [],
+    "summary": "",
+    "detailed_description": "",
+    "problem_solved": "",
+    "key_features": [],
+    "advantages": [],
+    "development_stage": "",
+    "next_development_steps": [],
+    "known_interested_companies": [],
+    "prior_art_supplied": []
+  },
+  "software_specific": {
+    "programming_languages": [],
+    "ai_generated_code": "",
+    "software_hardware_data_format": "",
+    "future_updates_required": "",
+    "third_party_or_open_source_elements": [],
+    "datasets_used": [],
+    "licences": [],
+    "duplicability_assessment": ""
+  },
+  "commercial_summary": {
+    "non_confidential_title": "",
+    "plain_english_summary": "",
+    "technical_summary": "",
+    "executive_statement": "",
+    "problems_solved": [],
+    "key_advantages": [],
+    "market_applications": []
+  },
+  "market_analysis": {
+    "market_segments": [],
+    "market_drivers": [],
+    "barriers": [],
+    "market_size_indicators": [],
+    "regulatory_or_standards_considerations": [],
+    "sources": []
+  },
+  "prior_art_competition": {
+    "patents": [],
+    "publications": [],
+    "commercial_products": [],
+    "open_source_projects": [],
+    "differentiation": [],
+    "novelty_risks": [],
+    "sources": []
+  },
+  "company_matches": [
+    {
+      "company": "",
+      "country": "",
+      "sector": "",
+      "relevance_rationale": "",
+      "evidence": [],
+      "recommended_engagement_route": "",
+      "priority_score": 0,
+      "confidence": "high | medium | low"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "role": "",
+      "company": "",
+      "source_url": "",
+      "reason_for_contact": "",
+      "contact_route": "",
+      "gdpr_notes": "",
+      "confidence": "high | medium | low"
+    }
+  ],
+  "outreach_pack": {
+    "email_licensing": "",
+    "email_sponsored_research": "",
+    "email_exploratory": "",
+    "linkedin_message": "",
+    "subject_lines": []
+  },
+  "development_roadmap": {
+    "current_maturity": "",
+    "technical_gaps": [],
+    "validation_steps": [],
+    "funding_options": [],
+    "milestones": []
+  },
+  "commercialisation_recommendation": {
+    "primary_route": "",
+    "secondary_routes": [],
+    "rationale": "",
+    "risks": [],
+    "next_actions": []
+  },
+  "ip_legal_flags": {
+    "likely_ipr": [],
+    "publication_urgency": "",
+    "patentability_flags": [],
+    "copyright_database_design_flags": [],
+    "open_source_flags": [],
+    "dataset_flags": [],
+    "recommended_ip_next_steps": []
+  },
+  "figures": [],
+  "references": []
+}
